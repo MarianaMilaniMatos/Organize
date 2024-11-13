@@ -1,0 +1,26 @@
+name: flutter_organize
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+asssets:
+ -assets/checklist.png
+ -assets/google.png
+ -assets/logo.jpeg
+ -assets/sem-fundo.png
+ -assets/user-profile.png
